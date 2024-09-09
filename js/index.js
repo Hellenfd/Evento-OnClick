@@ -23,3 +23,11 @@ btn2.addEventListener("click", function(){
     numeroActual++;
 this.innerText = numeroActual + " me gusta";
 })
+
+function mostrarAlerta1() {
+    alert("Gato atigrado was liked");
+}
+
+function mostrarAlerta2() {
+    alert("Golden retriever was liked");
+}
